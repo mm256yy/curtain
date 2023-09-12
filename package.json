@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "json-bigint": "^1.0.0",
+    "uview-ui": "^2.0.31"
+  }
+}
